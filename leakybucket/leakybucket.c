@@ -23,6 +23,8 @@ int main()
 	}while(ch);
 	
 	nsec=i;
+	
+	
 	printf("\nTime Recieved\t Sent \t Dropped \t Remaining\n");
 	for(i=0;i<nsec ||rem ;i++)
 	{	
